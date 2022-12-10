@@ -1,0 +1,48 @@
+/* make each letter of a H1 multicoloured, bold with the rubik font */
+h1 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    color: #ff0000;
+    font-size: 100px;
+    /* center  */
+    text-align: center;
+}
+/* make each letter of a H2 multicoloured, bold with the rubik font */
+h2 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    color: /* make the colour grey */ #808080;
+    font-size: 30px;
+
+}
+
+h3 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+    color: /* make the colour grey */ #808080;
+    font-size: 20px;
+}
+
+img {
+    /* make the image 200px wide */
+    width: 800px;
+    /* make the image 200px high */
+    height: 200px;
+    /* center the image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/* put all possible options for p */
+p {
+    /* make the font size 20px */
+    font-size: 20px;
+    /* make the font colour grey */
+    color: #808080;
+    /* make the font family rubik */
+    font-family: 'Rubik', sans-serif;
+    /* center the text */
+    text-align: center;
+}
